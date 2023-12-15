@@ -1,0 +1,9 @@
+{
+    "name": "Yoggest",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/stiffmeds/Yoggest",
+    "description": "What's better than Yogger? Yoggest (a very big boye).",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.23"
+	]
+}

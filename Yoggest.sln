@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yoggest", "Yoggest.csproj", "{EC038411-C317-40D8-9EE9-4AF3B766F3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC038411-C317-40D8-9EE9-4AF3B766F3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC038411-C317-40D8-9EE9-4AF3B766F3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC038411-C317-40D8-9EE9-4AF3B766F3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC038411-C317-40D8-9EE9-4AF3B766F3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67AE3C01-3FEF-49D4-9FE4-5D707647FBB9}
+	EndGlobalSection
+EndGlobal
